@@ -1,0 +1,686 @@
+[
+  {
+    "Surah No.": 1,
+    "Surah Name": "الفاتحة",
+    "In English": "Al-Fatiha",
+    "Juz No.": 1
+  },
+  {
+    "Surah No.": 2,
+    "Surah Name": "البقرة",
+    "In English": "Al-Baqara",
+    "Juz No.": "1, 2 and 3"
+  },
+  {
+    "Surah No.": 3,
+    "Surah Name": "آل عمران",
+    "In English": "Al Imran",
+    "Juz No.": "3 and 4"
+  },
+  {
+    "Surah No.": 4,
+    "Surah Name": "النساء",
+    "In English": "An-Nisa'",
+    "Juz No.": "4, 5 and 6"
+  },
+  {
+    "Surah No.": 5,
+    "Surah Name": "المائدة",
+    "In English": "Al-Ma'ida",
+    "Juz No.": "6 and 7"
+  },
+  {
+    "Surah No.": 6,
+    "Surah Name": "الأنعام",
+    "In English": "Al-An'am",
+    "Juz No.": "7 and 8"
+  },
+  {
+    "Surah No.": 7,
+    "Surah Name": "الأعراف",
+    "In English": "Al-A'raf",
+    "Juz No.": "8 and 9"
+  },
+  {
+    "Surah No.": 8,
+    "Surah Name": "الأنفال",
+    "In English": "Al-Anfal",
+    "Juz No.": "9 and 10"
+  },
+  {
+    "Surah No.": 9,
+    "Surah Name": "التوبة",
+    "In English": "At-Tawba",
+    "Juz No.": "10 and 11"
+  },
+  {
+    "Surah No.": 10,
+    "Surah Name": "يونس",
+    "In English": "Yunus",
+    "Juz No.": 11
+  },
+  {
+    "Surah No.": 11,
+    "Surah Name": "هود",
+    "In English": "Hud",
+    "Juz No.": "11 and 12"
+  },
+  {
+    "Surah No.": 12,
+    "Surah Name": "يوسف",
+    "In English": "Yusuf",
+    "Juz No.": "12 and 13"
+  },
+  {
+    "Surah No.": 13,
+    "Surah Name": "الرعد",
+    "In English": "Ar-Ra'd",
+    "Juz No.": 13
+  },
+  {
+    "Surah No.": 14,
+    "Surah Name": "إبراهيم",
+    "In English": "Ibrahim",
+    "Juz No.": 13
+  },
+  {
+    "Surah No.": 15,
+    "Surah Name": "الحجر",
+    "In English": "Al-Hijr",
+    "Juz No.": "13 and 14"
+  },
+  {
+    "Surah No.": 16,
+    "Surah Name": "النحل",
+    "In English": "An-Nahl",
+    "Juz No.": 14
+  },
+  {
+    "Surah No.": 17,
+    "Surah Name": "الإسراء",
+    "In English": "Al-Isra'",
+    "Juz No.": 15
+  },
+  {
+    "Surah No.": 18,
+    "Surah Name": "الكهف",
+    "In English": "Al-Kahf",
+    "Juz No.": "15 and 16"
+  },
+  {
+    "Surah No.": 19,
+    "Surah Name": "مريم",
+    "In English": "Maryam",
+    "Juz No.": 16
+  },
+  {
+    "Surah No.": 20,
+    "Surah Name": "طه",
+    "In English": "Ta-Ha",
+    "Juz No.": 16
+  },
+  {
+    "Surah No.": 21,
+    "Surah Name": "الأنبياء",
+    "In English": "Al-Anbiya'",
+    "Juz No.": 17
+  },
+  {
+    "Surah No.": 22,
+    "Surah Name": "الحج",
+    "In English": "Al-Hajj",
+    "Juz No.": 17
+  },
+  {
+    "Surah No.": 23,
+    "Surah Name": "المؤمنون",
+    "In English": "Al-Mu'minoon",
+    "Juz No.": 18
+  },
+  {
+    "Surah No.": 24,
+    "Surah Name": "النور",
+    "In English": "An-Nur",
+    "Juz No.": 18
+  },
+  {
+    "Surah No.": 25,
+    "Surah Name": "الفرقان",
+    "In English": "Al-Furqan",
+    "Juz No.": "18 and 19"
+  },
+  {
+    "Surah No.": 26,
+    "Surah Name": "الشعراء",
+    "In English": "Ash-Shu'ara",
+    "Juz No.": 19
+  },
+  {
+    "Surah No.": 27,
+    "Surah Name": "النمل",
+    "In English": "An-Naml",
+    "Juz No.": "19 and 20"
+  },
+  {
+    "Surah No.": 28,
+    "Surah Name": "القصص",
+    "In English": "Al-Qasas",
+    "Juz No.": 20
+  },
+  {
+    "Surah No.": 29,
+    "Surah Name": "العنكبوت",
+    "In English": "Al-Ankabut",
+    "Juz No.": "20 and 21"
+  },
+  {
+    "Surah No.": 30,
+    "Surah Name": "الروم",
+    "In English": "Ar-Rum",
+    "Juz No.": 21
+  },
+  {
+    "Surah No.": 31,
+    "Surah Name": "لقمان",
+    "In English": "Luqman",
+    "Juz No.": 21
+  },
+  {
+    "Surah No.": 32,
+    "Surah Name": "السجدة",
+    "In English": "As-Sajda",
+    "Juz No.": 21
+  },
+  {
+    "Surah No.": 33,
+    "Surah Name": "الأحزاب",
+    "In English": "Al-Ahzab",
+    "Juz No.": "21 and 22"
+  },
+  {
+    "Surah No.": 34,
+    "Surah Name": "سبأ",
+    "In English": "Saba'",
+    "Juz No.": 22
+  },
+  {
+    "Surah No.": 35,
+    "Surah Name": "فاطر",
+    "In English": "Fatir",
+    "Juz No.": 22
+  },
+  {
+    "Surah No.": 36,
+    "Surah Name": "يس",
+    "In English": "Ya Seen",
+    "Juz No.": "22 and 23"
+  },
+  {
+    "Surah No.": 37,
+    "Surah Name": "الصافات",
+    "In English": "As-Saffat",
+    "Juz No.": 23
+  },
+  {
+    "Surah No.": 38,
+    "Surah Name": "ص",
+    "In English": "Sad",
+    "Juz No.": 23
+  },
+  {
+    "Surah No.": 39,
+    "Surah Name": "الزمر",
+    "In English": "Az-Zumar",
+    "Juz No.": "23 and 24"
+  },
+  {
+    "Surah No.": 40,
+    "Surah Name": "غافر",
+    "In English": "Ghafir",
+    "Juz No.": 24
+  },
+  {
+    "Surah No.": 41,
+    "Surah Name": "فصلت",
+    "In English": "Fussilat",
+    "Juz No.": "24 and 25"
+  },
+  {
+    "Surah No.": 42,
+    "Surah Name": "الشورى",
+    "In English": "Ash-Shura",
+    "Juz No.": 25
+  },
+  {
+    "Surah No.": 43,
+    "Surah Name": "الزخرف",
+    "In English": "Az-Zukhruf",
+    "Juz No.": 25
+  },
+  {
+    "Surah No.": 44,
+    "Surah Name": "الدخان",
+    "In English": "Ad-Dukhan",
+    "Juz No.": 25
+  },
+  {
+    "Surah No.": 45,
+    "Surah Name": "الجاثية",
+    "In English": "Al-Jathiya",
+    "Juz No.": 25
+  },
+  {
+    "Surah No.": 46,
+    "Surah Name": "الأحقاف",
+    "In English": "Al-Ahqaf",
+    "Juz No.": 26
+  },
+  {
+    "Surah No.": 47,
+    "Surah Name": "محمد",
+    "In English": "Muhammad",
+    "Juz No.": 26
+  },
+  {
+    "Surah No.": 48,
+    "Surah Name": "الفتح",
+    "In English": "Al-Fath",
+    "Juz No.": 26
+  },
+  {
+    "Surah No.": 49,
+    "Surah Name": "الحجرات",
+    "In English": "Al-Hujurat",
+    "Juz No.": 26
+  },
+  {
+    "Surah No.": 50,
+    "Surah Name": "ق",
+    "In English": "Qaf",
+    "Juz No.": 26
+  },
+  {
+    "Surah No.": 51,
+    "Surah Name": "الذاريات",
+    "In English": "Adh-Dhariyat",
+    "Juz No.": "26 and 27"
+  },
+  {
+    "Surah No.": 52,
+    "Surah Name": "الطور",
+    "In English": "At-Tur",
+    "Juz No.": 27
+  },
+  {
+    "Surah No.": 53,
+    "Surah Name": "النجم",
+    "In English": "An-Najm",
+    "Juz No.": 27
+  },
+  {
+    "Surah No.": 54,
+    "Surah Name": "القمر",
+    "In English": "Al-Qamar",
+    "Juz No.": 27
+  },
+  {
+    "Surah No.": 55,
+    "Surah Name": "الرحمن",
+    "In English": "Ar-Rahman",
+    "Juz No.": 27
+  },
+  {
+    "Surah No.": 56,
+    "Surah Name": "الواقعة",
+    "In English": "Al-Waqi'a",
+    "Juz No.": 27
+  },
+  {
+    "Surah No.": 57,
+    "Surah Name": "الحديد",
+    "In English": "Al-Hadid",
+    "Juz No.": 27
+  },
+  {
+    "Surah No.": 58,
+    "Surah Name": "المجادلة",
+    "In English": "Al-Mujadila",
+    "Juz No.": 28
+  },
+  {
+    "Surah No.": 59,
+    "Surah Name": "الحشر",
+    "In English": "Al-Hashr",
+    "Juz No.": 28
+  },
+  {
+    "Surah No.": 60,
+    "Surah Name": "الممتحنة",
+    "In English": "Al-Mumtahina",
+    "Juz No.": 28
+  },
+  {
+    "Surah No.": 61,
+    "Surah Name": "الصف",
+    "In English": "As-Saff",
+    "Juz No.": 28
+  },
+  {
+    "Surah No.": 62,
+    "Surah Name": "الجمعة",
+    "In English": "Al-Jumu'a",
+    "Juz No.": 28
+  },
+  {
+    "Surah No.": 63,
+    "Surah Name": "المنافقون",
+    "In English": "Al-Munafiqun",
+    "Juz No.": 28
+  },
+  {
+    "Surah No.": 64,
+    "Surah Name": "التغابن",
+    "In English": "At-Taghabun",
+    "Juz No.": 28
+  },
+  {
+    "Surah No.": 65,
+    "Surah Name": "الطلاق",
+    "In English": "At-Talaq",
+    "Juz No.": 28
+  },
+  {
+    "Surah No.": 66,
+    "Surah Name": "التحريم",
+    "In English": "At-Tahrim",
+    "Juz No.": 28
+  },
+  {
+    "Surah No.": 67,
+    "Surah Name": "الملك",
+    "In English": "Al-Mulk",
+    "Juz No.": 29
+  },
+  {
+    "Surah No.": 68,
+    "Surah Name": "القلم",
+    "In English": "Al-Qalam",
+    "Juz No.": 29
+  },
+  {
+    "Surah No.": 69,
+    "Surah Name": "الحاقة",
+    "In English": "Al-Haqqa",
+    "Juz No.": 29
+  },
+  {
+    "Surah No.": 70,
+    "Surah Name": "المعارج",
+    "In English": "Al-Ma'arij",
+    "Juz No.": 29
+  },
+  {
+    "Surah No.": 71,
+    "Surah Name": "نوح",
+    "In English": "Nuh",
+    "Juz No.": 29
+  },
+  {
+    "Surah No.": 72,
+    "Surah Name": "الجن",
+    "In English": "Al-Jinn",
+    "Juz No.": 29
+  },
+  {
+    "Surah No.": 73,
+    "Surah Name": "المزمل",
+    "In English": "Al-Muzzammil",
+    "Juz No.": 29
+  },
+  {
+    "Surah No.": 74,
+    "Surah Name": "المدثر",
+    "In English": "Al-Muddathir",
+    "Juz No.": 29
+  },
+  {
+    "Surah No.": 75,
+    "Surah Name": "القيامة",
+    "In English": "Al-Qiyama",
+    "Juz No.": 29
+  },
+  {
+    "Surah No.": 76,
+    "Surah Name": "الإنسان",
+    "In English": "Al-Insan",
+    "Juz No.": 29
+  },
+  {
+    "Surah No.": 77,
+    "Surah Name": "المرسلات",
+    "In English": "Al-Mursalat",
+    "Juz No.": 29
+  },
+  {
+    "Surah No.": 78,
+    "Surah Name": "النبأ",
+    "In English": "An-Naba'",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 79,
+    "Surah Name": "النازعات",
+    "In English": "An-Nazi'at",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 80,
+    "Surah Name": "عبس",
+    "In English": "Abasa",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 81,
+    "Surah Name": "التكوير",
+    "In English": "At-Takwir",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 82,
+    "Surah Name": "الإنفطار",
+    "In English": "Al-Infitar",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 83,
+    "Surah Name": "المطففين",
+    "In English": "Al-Mutaffifeen",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 84,
+    "Surah Name": "الإنشقاق",
+    "In English": "Al-Inshiqaq",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 85,
+    "Surah Name": "البروج",
+    "In English": "Al-Burooj",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 86,
+    "Surah Name": "الطارق",
+    "In English": "At-Tariq",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 87,
+    "Surah Name": "الأعلى",
+    "In English": "Al-A'la",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 88,
+    "Surah Name": "الغاشية",
+    "In English": "Al-Ghashiya",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 89,
+    "Surah Name": "الفجر",
+    "In English": "Al-Fajr",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 90,
+    "Surah Name": "البلد",
+    "In English": "Al-Balad",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 91,
+    "Surah Name": "الشمس",
+    "In English": "Ash-Shams",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 92,
+    "Surah Name": "الليل",
+    "In English": "Al-Lail",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 93,
+    "Surah Name": "الضحى",
+    "In English": "Ad-Dhuha",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 94,
+    "Surah Name": "الشرح",
+    "In English": "Ash-Sharh",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 95,
+    "Surah Name": "التين",
+    "In English": "At-Teen",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 96,
+    "Surah Name": "العلق",
+    "In English": "Al-Alaq",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 97,
+    "Surah Name": "القدر",
+    "In English": "Al-Qadr",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 98,
+    "Surah Name": "البينة",
+    "In English": "Al-Bayyina",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 99,
+    "Surah Name": "الزلزلة",
+    "In English": "Az-Zalzala",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 100,
+    "Surah Name": "العاديات",
+    "In English": "Al-'Adiyat",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 101,
+    "Surah Name": "القارعة",
+    "In English": "Al-Qari'a",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 102,
+    "Surah Name": "التكاثر",
+    "In English": "At-Takathur",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 103,
+    "Surah Name": "العصر",
+    "In English": "Al-'Asr",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 104,
+    "Surah Name": "الهمزة",
+    "In English": "Al-Humaza",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 105,
+    "Surah Name": "الفيل",
+    "In English": "Al-Feel",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 106,
+    "Surah Name": "قريش",
+    "In English": "Quraysh",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 107,
+    "Surah Name": "الماعون",
+    "In English": "Al-Ma'oon",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 108,
+    "Surah Name": "الكوثر",
+    "In English": "Al-Kawthar",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 109,
+    "Surah Name": "الكافرون",
+    "In English": "Al-Kafiroon",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 110,
+    "Surah Name": "النصر",
+    "In English": "An-Nasr",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 111,
+    "Surah Name": "المسد",
+    "In English": "Al-Masad",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 112,
+    "Surah Name": "الإخلاص",
+    "In English": "Al-Ikhlas",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 113,
+    "Surah Name": "الفلق",
+    "In English": "Al-Falaq",
+    "Juz No.": 30
+  },
+  {
+    "Surah No.": 114,
+    "Surah Name": "الناس",
+    "In English": "An-Nas",
+    "Juz No.": 30
+  }
+]
